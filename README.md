@@ -20,3 +20,11 @@ All Configurations : C/C++ : General : Additional Include Directories
 All Configurations : Linker : General : Additional Library Directories
 
 Even though the OpenGL Programming Guide, Eighth Edition, is targeted for OpenGL 4.3, my display adapter only supports OpenGL up to version 2.1. I'll let you know if I run into any issues...
+
+**Example** | **Code**
+------------|-------------
+1.1 Our First OpenGL Program | chapter01/ch01_triangles
+3.6 Drawing Commands | chapter03/ch03_drawcommands
+3.8 Primitive Restart | chapter03/ch03_primitive_restart
+
+
