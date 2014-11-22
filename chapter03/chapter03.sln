@@ -5,6 +5,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ch03_drawcommands", "ch03_d
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ch03_primitive_restart", "ch03_primitive_restart\ch03_primitive_restart.vcxproj", "{AB207395-A69E-41F3-B1AF-B356765B9F47}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ch03_instancing", "ch03_instancing\ch03_instancing.vcxproj", "{92E02EC1-7616-4308-924B-D0B28C27EE81}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ch03_instancing_tbo", "ch03_instancing_tbo\ch03_instancing_tbo.vcxproj", "{14365055-C16A-41A3-8FBF-01D57B42B6A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +23,14 @@ Global
 		{AB207395-A69E-41F3-B1AF-B356765B9F47}.Debug|Win32.Build.0 = Debug|Win32
 		{AB207395-A69E-41F3-B1AF-B356765B9F47}.Release|Win32.ActiveCfg = Release|Win32
 		{AB207395-A69E-41F3-B1AF-B356765B9F47}.Release|Win32.Build.0 = Release|Win32
+		{92E02EC1-7616-4308-924B-D0B28C27EE81}.Debug|Win32.ActiveCfg = Debug|Win32
+		{92E02EC1-7616-4308-924B-D0B28C27EE81}.Debug|Win32.Build.0 = Debug|Win32
+		{92E02EC1-7616-4308-924B-D0B28C27EE81}.Release|Win32.ActiveCfg = Release|Win32
+		{92E02EC1-7616-4308-924B-D0B28C27EE81}.Release|Win32.Build.0 = Release|Win32
+		{14365055-C16A-41A3-8FBF-01D57B42B6A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{14365055-C16A-41A3-8FBF-01D57B42B6A5}.Debug|Win32.Build.0 = Debug|Win32
+		{14365055-C16A-41A3-8FBF-01D57B42B6A5}.Release|Win32.ActiveCfg = Release|Win32
+		{14365055-C16A-41A3-8FBF-01D57B42B6A5}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
