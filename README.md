@@ -26,5 +26,5 @@ Even though the OpenGL Programming Guide, Eighth Edition, is targeted for OpenGL
 1.1 Our First OpenGL Program | chapter01/ch01_triangles
 3.6 Drawing Commands | chapter03/ch03_drawcommands
 3.8 Primitive Restart | chapter03/ch03_primitive_restart
-
-
+3.12 Instancing | chapter03/ch03_instancing
+3.13 gl_InstanceID Example Vertex Shader | chapter03/ch03_instancing_tbo
